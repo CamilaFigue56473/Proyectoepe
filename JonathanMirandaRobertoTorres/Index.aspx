@@ -65,7 +65,7 @@
 <body>
     <div class="container">
        <img src="img/LOGO-FONDO-BLANCO-JPG%20(1).jpg" style="height: 149px; width: 485px" />
-        <h1 class="auto-style1">Roberto Torres</h1>
+        <h1 class="auto-style1">Camila Figueroa</h1>
         <h1 class="auto-style1">Jonathan Miranda</h1>
         
         <div class="btn-container">
