@@ -77,6 +77,7 @@
             <button class="btn btn-2" onclick="window.location.href='pagina2.aspx'">Concatenar Nombre</button>
             <button class="btn btn-3" onclick="window.location.href='pagina3.aspx'">Formulario de Contacto</button>
             <button class="btn btn-4" onclick="window.location.href='pagina4.aspx'">Calculadora</button>
+            <button class="btn btn-5" onclick="window.close()">Salir</button>
         </div>
     </div>
 </body>
