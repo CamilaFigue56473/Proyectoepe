@@ -57,6 +57,10 @@
             background-color: #ffd800;
             color: white;
         }
+        .btn-5 {
+            background-color: #ffd800;
+            color: white;
+        }
         .btn:hover {
             opacity: 0.8;
             transform: translateY(-2px);
