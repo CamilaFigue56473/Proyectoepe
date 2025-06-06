@@ -14,12 +14,12 @@
       margin: 10px;
       padding: 10px;
       font-size: 16px;
-      color: white;
+      color: black;
     }
     .resultado {
       margin-top: 20px;
       font-size: 18px;
-      color: white;
+      color: black;
     }
   </style>
 </head>
